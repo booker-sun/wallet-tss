@@ -1,0 +1,23 @@
+{
+  "name": "wallet",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-native": "*",
+    "@testing-library/react-native": "*",
+    "react": "*",
+    "react-native": "*",
+    "react-native-svg": "*",
+    "metro-config": "*",
+    "@react-native-async-storage/async-storage": "*",
+    "react-native-quick-base64": "*",
+    "react-native-quick-crypto": "*",
+    "stream-browserify": "*",
+    "@craftzdog/react-native-buffer": "*",
+    "openpgp": "*",
+    "@wei/env-core": "*"
+  },
+  "devDependencies": {
+    "react-native-dotenv": "*"
+  }
+}
